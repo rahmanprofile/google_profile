@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "580798809269",
+    "project_id": "fir-5928d",
+    "storage_bucket": "fir-5928d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580798809269:android:efeadb9a69839c68896afc",
+        "android_client_info": {
+          "package_name": "com.rahman.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580798809269-badc5fgeetlacns6lsrr7gt70aaj7g5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOzM3lCDwPO5UqTOSDUiu_f3JobBSAdKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580798809269-badc5fgeetlacns6lsrr7gt70aaj7g5d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580798809269-kc1206b9bb6i5aka9np6njh8odi98c0p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rahman.authentication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
